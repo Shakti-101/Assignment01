@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: thang
+Build-Jdk: 14.0.2
+Implementation-Title: SpringBootCrud
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.xadmin
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBootCrud
+Created-By: Maven Integration for Eclipse
+
